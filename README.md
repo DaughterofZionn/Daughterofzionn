@@ -3,16 +3,12 @@
 </p>
 
 <p align="center">
-  <i>Somewhere between “what if?” and “it works.” ✨</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=730&height=44&lines=Somewhere%20between%20%E2%80%9Cwhat%20if%3F%E2%80%9D%20and%20%E2%80%9Cit%20works.%E2%80%9D%20%E2%9C%A8" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
 
-A little corner of the internet where I make things, learn as I go, and feel at home.
-
-- 🌱 Always learning and trying new things
-- 💡 Turning little ideas into something real
-- ✨ Making this space my own
+Making little ideas do big things.
 
 ### 🛠️ Tech Stack
 
